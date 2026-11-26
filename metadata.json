@@ -1,0 +1,6 @@
+{
+  "name": "Porsche 911 GT3 RS — Showroom Digital",
+  "description": "Showroom automotivo digital interativo para apresentação e exploração do Porsche 911 GT3 RS (992) Pacote Weissach 2024 em Ice Grey Metallic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
